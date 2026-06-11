@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-market-data-switch-operation
+description: "BIAN Service Domain: Market Data Switch Operation (Operate pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Market Data Feed"
+  bian/control-record: "Market Data Feed Operating Session"
